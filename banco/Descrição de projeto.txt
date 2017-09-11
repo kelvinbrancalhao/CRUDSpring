@@ -1,0 +1,9 @@
+	Este projeto foi feito com a ferramenta Maven, para facilitar a integração e execução dos pacotes inseridos.
+	
+	da forma que eu programei esse Projeto não há necessidade de programar um banco ou de instalar um servidor de execução
+já que o hibernate com as anotações previamente prontas nas classes é capaz de montar a estrutura do banco, e o Maven já se encarrega
+de inserir o Jetty.
+
+O unico Comando no Banco de dados mySQL necessario é "CREATE DATABASE CRUD;" e após e so executar o projeto.
+
+Algumas partes estão faltando devido ao um problema absurdo no hibernate que foi resolvido somente em cima da hora.
